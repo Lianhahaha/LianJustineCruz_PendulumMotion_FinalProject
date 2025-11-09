@@ -16,7 +16,7 @@ import javax.swing.*;
 public class CruzLianJustine_physicsCalculator {
 
         
-
+//hohoho
    public static void main(String[] args) {
     // Constants
     final double defaultGravity = 9.81; // Default acceleration due to gravity in m/s² (Earth)
